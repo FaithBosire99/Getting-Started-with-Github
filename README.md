@@ -1,3 +1,3 @@
 # Getting-Started-with-Github
 $$**newdata2025**$$
-![agriculturedata](https://www.conservationgateway.org/ConservationByGeography/NorthAmerica/wholesystems/centralapps/PublishingImages/centralappsindex.gif)
+![agriculturedata](https://cdn.britannica.com/37/137537-050-614C06AA/Leaves-tea-plant.jpg)
