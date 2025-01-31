@@ -9,11 +9,11 @@ This is **cat2025**—a symbol of curiosity, independence, and the playful spiri
 ---
 
 ## About Me 🌟  
-Hi there! I'm [Your Name] (feel free to add your username here).  
+Hi there! I'm Faith:)  
 This is my **first-ever step** into the amazing world of GitHub and open-source development. Here’s what you can expect from my repositories:
 - 🌱 **Learning in progress:** I'm here to grow and improve my skills.  
 - 🚀 **Collaboration:** Open to ideas, tips, and working together on cool projects.  
-- 🌍 **Passion for Impact:** My interests include [add your focus areas, like SDGs, climate change, coding, etc.].  
+- 🌍 **Passion for Impact:** My interests include SDGs, climate change, coding, etc.].  
 
 ---
 
