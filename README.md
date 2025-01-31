@@ -13,7 +13,7 @@ Hi there! I'm Faith:)
 This is my **first-ever step** into the amazing world of GitHub and open-source development. Here’s what you can expect from my repositories:
 - 🌱 **Learning in progress:** I'm here to grow and improve my skills.  
 - 🚀 **Collaboration:** Open to ideas, tips, and working together on cool projects.  
-- 🌍 **Passion for Impact:** My interests include SDGs, climate change, coding, etc.].  
+- 🌍 **Passion for Impact:** My interests include SDGs, climate change, coding, data etc.  
 
 ---
 
